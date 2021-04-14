@@ -14,6 +14,10 @@ function reset() {
   const spades = document.getElementById('spades');
   const hearts = document.getElementById('hearts');
 
+  // const sectionArr = document.querySelectorAll('section');
+
+  // sectionArr.length
+
   hearts.style.color = 'grey';
   clubs.style.color = 'grey';
   spades.style.color = 'grey';
