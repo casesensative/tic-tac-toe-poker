@@ -53,3 +53,9 @@ section span:nth-of-type(3) {
   width: 100px;
   border: 1px solid #000;
 }
+
+#btn {
+  width: 100px;
+  height: 50px;
+  display: block;
+}
